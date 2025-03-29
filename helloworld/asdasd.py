@@ -58,6 +58,8 @@ while i < sen_len:
 i += 1
 print("the result is: ", sen[start:end])
 
+#이걸 한 번 추가해보겠습니다. 제발 됐으면 좋겠네요
+
 #영문자가 아닌게 한글이겠죠
 
 
